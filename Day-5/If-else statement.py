@@ -55,4 +55,4 @@ elif Number > 100 and Number <= 200:
     else:
         print("Result not updated")
 else:
-    print("You have failed")
+    print("You are failed")
